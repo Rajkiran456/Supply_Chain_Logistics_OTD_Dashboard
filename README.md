@@ -15,4 +15,4 @@ Designed and developed an end-to-end interactive Power BI dashboard to monitor O
 * **Carrier Dynamic:** Interactive slicer allows immediate filtering to isolate vendor delays.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](path-to-your-screenshot.png)
+![Dashboard Preview](Screenshot.png)
